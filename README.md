@@ -1,0 +1,1 @@
+Face liveness and anti-spoofing is used to detect whether a face presented to a system is real (live) or fake (like a photo, video, or mask). These methods enhance security in facial recognition systems by preventing unauthorized access through spoofing attacks with improved efficiency
